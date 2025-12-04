@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file alias="normal">assets/normal.png</file>
+        <file alias="enter">assets/enter.png</file>
+        <file alias="press">assets/press.png</file>
+        <file alias="disable">assets/disable.png</file>
+    </qresource>
+</RCC>
